@@ -9,28 +9,28 @@ MIRTH Básico
 Análisis, formateo y validación de mensajes hl7 Intercambio de mensajes HL7
 
 Unidad 1 - Introducción a la Interoperabilidad y a Mirth Connect
-Tarea Actividad Lab 01-01 Instalación de Mirth Connect Mandi
-Tarea Actividad Lab 01-02 Instalación del Editor HL7   Mandi
+Tarea Actividad Lab 01-01 Instalación de Mirth Connect 
+Tarea Actividad Lab 01-02 Instalación del Editor HL7   
 
 Unidad 2 - Configuración de Canales
-Lab 02-02 Lectura y escritura de archivos       L Ramé
-Lab 02-03 Destinos Tipo de conector File Writer L Ramé
-Lab 02-08 Exportar e Importar un Canal Mandi
+Lab 02-02 Lectura y escritura de archivos       
+Lab 02-03 Destinos Tipo de conector File Writer
+Lab 02-08 Exportar e Importar un Canal 
 
 Unidad 3 - Administración de Canales
-Lab 03-04 Variables y Transformaciones L Ramé
-Lab 03-05 Alertas                      L Ramé 
+Lab 03-04 Variables y Transformaciones
+Lab 03-05 Alertas                    
 
 Unidad 4 - Administración - mensajes HL7
-Lab 04-06 Mensajería por Red TCP MLLP L Ramé 
-Tarea Actividad  Lab 04-07 Broker - Redireccionamientos L Ramé 
+Lab 04-06 Mensajería por Red TCP MLLP 
+Tarea Actividad  Lab 04-07 Broker - Redireccionamientos
 
 Unidad 5 - Multiples Destinos
-Lab 05-11 Múltiples destinos   L Ramé 
+Lab 05-11 Múltiples destinos  
 
 Unidad 6 - WEB SERVICE
-Lab 06-12 Web Service Receptor L Ramé 
-Lab 06-13 Web Service Emisor   L Ramé 
+Lab 06-12 Web Service Receptor 
+Lab 06-13 Web Service Emisor   
 
 ..............................................
 
@@ -40,7 +40,7 @@ Conversión de datos JSON XML CSV PDF
 
 Unidad 13 Operaciones con  Correo Electronico
 Lab 13-05 Alertas por Correo
-Lab 13-06 Envío de mails Mandi
+Lab 13-06 Envío de mails
 
  
 Unidad 14 GitHub & Mirth Project Forums
@@ -48,7 +48,7 @@ Lab 13-03 GitHub
 Lab 13-05 Mirth Project
 
 Unidad 15 - FHIR & MIRTH CONNECT
-Lab 15-09 Protocolo HL7 FHIR  L Rame Mandi
+Lab 15-09 Protocolo HL7 FHIR  
 Lab 15-10 Conector FHIR Mandi
 
 Unidad 16 - Conversión de datos & WEB SERVICE Avanzado
