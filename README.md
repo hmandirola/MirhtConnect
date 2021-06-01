@@ -49,7 +49,7 @@ Lab 13-05 Mirth Project
 
 Unidad 15 - FHIR & MIRTH CONNECT
 Lab 15-09 Protocolo HL7 FHIR  
-Lab 15-10 Conector FHIR Mandi
+Lab 15-10 Conector FHIR
 
 Unidad 16 - Conversión de datos & WEB SERVICE Avanzado
 Lab 16-02 Conversión de datos JSON
@@ -58,7 +58,7 @@ Lab 16-06 Conversión de datos CVS
 Lab 16-09 API de SOAP
 
 Unidad 17 - DICOM & MIRTH CONNECT
-Lab 17-14 DICOM SCP Cesar Moreno
+Lab 17-14 DICOM SCP 
 
 Unidad 18 - Operaciones con base de datos de Mirth Connect
 Lab 18-03 HL7 a SQL Insertar
