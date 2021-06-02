@@ -21,9 +21,9 @@ Unidad 3 - Administración de Canales
 Lab 03-04 Variables y Transformaciones
 Lab 03-05 Alertas                    
 
-Unidad 4 - Administración - mensajes HL7
+Unidad 4 - Administración - mensajes HL7 
 Lab 04-06 Mensajería por Red TCP MLLP 
-Tarea Actividad  Lab 04-07 Broker - Redireccionamientos
+Lab 04-07 Broker - Redireccionamientos
 
 Unidad 5 - Multiples Destinos
 Lab 05-11 Múltiples destinos  
@@ -34,18 +34,26 @@ Lab 06-13 Web Service Emisor
 
 ..............................................
 
-MIRTH Avanzado
-Clase personalizada de Java API REST API de SOAP
-Conversión de datos JSON XML CSV PDF
+MIRTH  Intermedio
+
+Unidad 11 - Operaciones con HL7 V 2.X
+Lab 11-12 Web Service Receptor 
+Lab 11-13 Web Service Emisor  
+
+Unidad 12 - WEB SERVICE SOAP REST
+Lab 12-03 REST API
+Lab 12-12 Web Service Receptor 
+Lab 12-13 Web Service Emisor  
 
 Unidad 13 Operaciones con  Correo Electronico
 Lab 13-05 Alertas por Correo
-Lab 13-06 Envío de mails
-
+Lab 13-06 Envío de mails 
  
-Unidad 14 GitHub & Mirth Project Forums
-Lab 13-03 GitHub
-Lab 13-05 Mirth Project
+Unidad 14  Operaciones con base de datos de Mirth Connect GitHub & Mirth Project Forums
+Lab 14-01 GitHub Mirth Project
+Lab 14-03 HL7 a SQL Insertar
+Lab 14-05 HL7 a SQL Modificar a través de un Stored Procedure
+Lab 14-10 Reemplazar la base de datos
 
 Unidad 15 - FHIR & MIRTH CONNECT
 Lab 15-09 Protocolo HL7 FHIR  
@@ -59,11 +67,9 @@ Lab 16-09 API de SOAP
 
 Unidad 17 - DICOM & MIRTH CONNECT
 Lab 17-14 DICOM SCP 
+LAB 15-15 DICOM SCU
 
-Unidad 18 - Operaciones con base de datos de Mirth Connect
-Lab 18-03 HL7 a SQL Insertar
-Lab 18-05 HL7 a SQL Modificar a través de un Stored Procedure
-Lab 18-10 Reemplazar la base de datos
 
-Unidad 19 - REST API
-Lab 19-03 REST API
+
+
+
