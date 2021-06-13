@@ -4,10 +4,10 @@ Mirth Connect es un #middlewere de #NextGen Connect es un motor de interfaz mult
 
  Este es el primer curso virtual de Mirth Connect en Español, diseñado y brindado desde 2010 por HL7 Argentina, en modalidades presenciales y online. En el mismo hemos volcado la experiencia de haber trabajado con Mirth Connect, y toda la experiencia en las áreas de Informática en Salud, Estándares HL7 e Interoperabilidad.
 
-HL7 Argentina tiene 2 cursos virtuales de Mirth  uno Básico y otro Avanzado.
+HL7 Argentina tiene 2 cursos virtuales de Mirth  uno Fundamental y otro Avanzado.
 
-MIRTH INSERCION
----------------
+MIRTH FUNDAMENTAL
+-----------------
 Objectos:  Poder Instalar de Mirth, compresion del funcionamiento y uso de Canales, Análisis, formateo y validación de mensajes hl7 Intercambio de mensajes HL7. El Mediante este curso se ganara experiencia rápidamente en el uso del motor de integración Mirth Connect en distintos escenarios de interoperabilidad de información en salud, incluyendo casos de intercambio de datos con estándares HL7v2.x, HL7.
 
 Unidad 01 Introducción a la Interoperabilidad y a Mirth Connect
@@ -32,9 +32,9 @@ Lab 05-11 Múltiples destinos
 
 ..............................................
 
-MIRTH AVANZADO
+MIRTH AVDVANCE
 --------------
-Objetivos: Menejar operaciones de Web Services, Correo electronco, operaciones en base de datos, uso de FHIR en Mirth Connect, Conversion de datos y Operaciones con HL7, CDA, FHIR,DICOM, SOAP, JSON, REST, librerias JAVA, Correo  y manejo de base de datos en Mirth.
+Objetivos: Manejar operaciones de Web Services, Correo electronco, operaciones en base de datos, uso de FHIR en Mirth Connect, Conversion de datos y Operaciones con HL7, CDA, FHIR,DICOM, SOAP, JSON, REST, librerias JAVA, Correo  y manejo de base de datos en Mirth.
 
 Unidad 11 WEB SERVICE SOAP REST
 Lab 11-03 REST API
