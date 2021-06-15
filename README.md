@@ -75,35 +75,63 @@ Consulte valores y más información en  Informes e inscripción: info@hl7.org.a
 
 MIRTH ADVANCE
 --------------
-Objetivos: Manejar operaciones de Web Services, Correo electronco, operaciones en base de datos, uso de FHIR en Mirth Connect, Conversion de datos y Operaciones con HL7, CDA, FHIR,DICOM, SOAP, JSON, REST, librerias JAVA, Correo  y manejo de base de datos en Mirth.
+CURSO VIRTUAL MIRTH CONNECT DE HL7 ARGENTINA ADVANCE EN ESPAÑOL, LA MEJOR MANEJAR DE APRENDER INTEROPERABILIDAD DE SISTEMAS DE SALUD
+DICTADO POR HL7 ARGENTINA EN ESPAÑOL
+Introducción a los motores de interoperabilidad con estándares HL7, CDA, DICOM y FHIR orientados al intercambio de información entre sistemas de salud. 
+La mejor manera de conocer la interoperabilidad en el sector salud es usar herramientas que te permitan ver en forma práctica cómo funcionan los estándares más usados con HL7, CDA, FHIR y DICOM en forma práctica.
 
-Unidad 11 WEB SERVICE SOAP REST
+Requisitos previos
+Haber aprobado el Curso Virtual Mirth Connect Fundamental 
+El curso de introducción a Mirth Connect Advance  es un taller virtual donde realizamos una inmersión en el universo de la interoperabilidad. 
+Con el soporte de unos recursos web, desarrollamos una serie de ejercicios guiados que muestran, a través de múltiples ejemplos, un modelo de buena práctica en la utilización de dichos estándares. El acceso al material está disponible por un año luego que finalice. Requiere en promedio 5 horas semanales y no tiene un horario fijo, se realiza y se conecta cuando es posible.
+Objetivos: Manejar operaciones de Web Services, Correo electrónico, operaciones en base de datos, uso de FHIR en Mirth Connect, Conversion de datos y Operaciones con HL7, CDA, FHIR,DICOM, SOAP, JSON, REST, librerías JAVA, Correo y manejo de base de datos en Mirth.
+
+CONFIGURACIÓN Y RECURSOS
+Curso en modalidad no presencial con tutoría Web, Tutores certificados por HL7. Material en español desarrollado por el equipo de tutores. Documentación en español e inglés. Glosario de terminología HL7 en español e inglés. Foros de discusión.
+Se dan dos unidades temáticas por semana al final de la segunda se toma un examen.
+ Cuestionarios de autoevaluación en cada módulo. Actividades coordinadas y evaluadas por el equipo de tutores.
+Se debe completar un cupo mínimo de 10 alumnos para comenzar el curso.
+ DURACIÓN 7 SEMANAS
+
+
+TEMARIO
+PROGRAMA DEL CURSO VIRTUAL MIRTH CONNECT ADVANCE
+SEMANA 1 —UNIDAD 11 WEB SERVICE SOAP REST
 Lab 11-03 REST API
 Lab 11-12 Web Service Receptor 
-Lab 11-13 Web Service Emisor  
+Lab 11-13 Web Service Emisor 
 
-Unidad 12 Operaciones con  Correo Electronico
+SEMANA 2 —UNIDAD 12 Operaciones con  Correo Electrónico
 Lab 12-05 Alertas por Correo
-Lab 12-06 Envío de mails 
- 
-Unidad 13 Operaciones con base de datos de Mirth Connect
+Lab 12-06 Envío de mails
+
+SEMANA 3 —UNIDAD 13 Operaciones con base de datos de Mirth Connect
+Lab 13-03 HL7 a SQL Insert
 Lab 13-05 HL7 a SQL Modificar a través de un Stored Procedure
 Lab 13-10 Reemplazar la base de datos
 
-Unidad 14 FHIR & MIRTH CONNECT
-Lab 14-09 Protocolo HL7 FHIR  
-Lab 14-10 Conector FHIR
+SEMANA 4 —UNIDAD 14 FHIR & MIRTH CONNECT
+Enviar mensajes HL7
+Mapear variables HL7
+Recibir Mensajes HL7
 
-Unidad 15 Conversión de datos 
-Lab 15-02 Conversión de datos JSON
+SEMANA 5 —UNIDAD 15 Conversión de datos
+Lab 15-02 Conversión de datos HL7 a JSON
 Lab 15-04 Conversión de datos XML
 Lab 15-06 Conversión de datos CVS
 Lab 15-09 API de SOAP
 
-Unidad 16 DICOM & MIRTH CONNECT
+
+SEMANA 6 —UNIDAD 16 DICOM & MIRTH CONNECT
 Lab 16-14 DICOM SCP 
 LAB 16-15 DICOM SCU
 
+SEMANA 7 —EXAMEN FINAL
+
+CURSO CON LABORATORIOS Y EXAMENES
+SE OTORGAN CERTIFICADOS A LOS QUE HAYAN COMPLETADO LOS PRÁCTICOS Y APROBADO EL EXAMEN FINAL
+
+Consulte valores y más información en  Informes e inscripción: info@hl7.org.ar  hmandirola@hl7.org.ar
 
 
 
