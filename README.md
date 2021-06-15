@@ -32,7 +32,7 @@ Lab 05-11 Múltiples destinos
 
 ..............................................
 
-MIRTH AVDVANCE
+MIRTH ADVANCE
 --------------
 Objetivos: Manejar operaciones de Web Services, Correo electronco, operaciones en base de datos, uso de FHIR en Mirth Connect, Conversion de datos y Operaciones con HL7, CDA, FHIR,DICOM, SOAP, JSON, REST, librerias JAVA, Correo  y manejo de base de datos en Mirth.
 
