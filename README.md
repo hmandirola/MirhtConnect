@@ -111,20 +111,20 @@ Lab 13-05 HL7 a SQL Modificar a través de un Stored Procedure
 Lab 13-10 Reemplazar la base de datos
 
 SEMANA 4 —UNIDAD 14 FHIR & MIRTH CONNECT
-Enviar mensajes HL7
-Mapear variables HL7
-Recibir Mensajes HL7
+Lab 14-09 Protocolo HL7 FHIR
+Lab 14-10: Instalar un puerto de Escucha FHIR
+
 
 SEMANA 5 —UNIDAD 15 Conversión de datos
 Lab 15-02 Conversión de datos HL7 a JSON
-Lab 15-04 Conversión de datos XML
-Lab 15-06 Conversión de datos CVS
-Lab 15-09 API de SOAP
+Lab 15-04 Conversión de datos XML *
+Lab 15-06 Conversión de datos CVS *
+Lab 15-09 API de SOAP *
 
 
 SEMANA 6 —UNIDAD 16 DICOM & MIRTH CONNECT
 Lab 16-14 DICOM SCP 
-LAB 16-15 DICOM SCU
+LAB 16-15 DICOM SCU *
 
 SEMANA 7 —EXAMEN FINAL
 
