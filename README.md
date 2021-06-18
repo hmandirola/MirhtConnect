@@ -73,16 +73,16 @@ Consulte valores y más información en  Informes e inscripción: info@hl7.org.a
 
 ..............................................
 
-MIRTH ADVANCE
---------------
-CURSO VIRTUAL MIRTH CONNECT DE HL7 ARGENTINA ADVANCE EN ESPAÑOL, LA MEJOR MANEJAR DE APRENDER INTEROPERABILIDAD DE SISTEMAS DE SALUD
+MIRTH INTERMEDIO
+----------------
+CURSO VIRTUAL MIRTH CONNECT DE HL7 ARGENTINA INTERMEDIO EN ESPAÑOL, LA MEJOR MANEJAR DE APRENDER INTEROPERABILIDAD DE SISTEMAS DE SALUD
 DICTADO POR HL7 ARGENTINA EN ESPAÑOL
 Introducción a los motores de interoperabilidad con estándares HL7, CDA, DICOM y FHIR orientados al intercambio de información entre sistemas de salud. 
 La mejor manera de conocer la interoperabilidad en el sector salud es usar herramientas que te permitan ver en forma práctica cómo funcionan los estándares más usados con HL7, CDA, FHIR y DICOM en forma práctica.
 
 Requisitos previos
 Haber aprobado el Curso Virtual Mirth Connect Fundamental 
-El curso de introducción a Mirth Connect Advance  es un taller virtual donde realizamos una inmersión en el universo de la interoperabilidad. 
+El curso de introducción a Mirth Connect Intermedio  es un taller virtual donde realizamos una inmersión en el universo de la interoperabilidad. 
 Con el soporte de unos recursos web, desarrollamos una serie de ejercicios guiados que muestran, a través de múltiples ejemplos, un modelo de buena práctica en la utilización de dichos estándares. El acceso al material está disponible por un año luego que finalice. Requiere en promedio 5 horas semanales y no tiene un horario fijo, se realiza y se conecta cuando es posible.
 Objetivos: Manejar operaciones de Web Services, Correo electrónico, operaciones en base de datos, uso de FHIR en Mirth Connect, Conversion de datos y Operaciones con HL7, CDA, FHIR,DICOM, SOAP, JSON, REST, librerías JAVA, Correo y manejo de base de datos en Mirth.
 
@@ -93,9 +93,8 @@ Se dan dos unidades temáticas por semana al final de la segunda se toma un exam
 Se debe completar un cupo mínimo de 10 alumnos para comenzar el curso.
  DURACIÓN 7 SEMANAS
 
-
 TEMARIO
-PROGRAMA DEL CURSO VIRTUAL MIRTH CONNECT ADVANCE
+PROGRAMA DEL CURSO VIRTUAL MIRTH CONNECT INTERMEDIO
 SEMANA 1 —UNIDAD 11 WEB SERVICE SOAP REST
 Lab 11-03 REST API
 Lab 11-12 Web Service Receptor 
@@ -114,13 +113,11 @@ SEMANA 4 —UNIDAD 14 FHIR & MIRTH CONNECT
 Lab 14-09 Protocolo HL7 FHIR
 Lab 14-10: Instalar un puerto de Escucha FHIR
 
-
 SEMANA 5 —UNIDAD 15 Conversión de datos
 Lab 15-02 Conversión de datos HL7 a JSON
 Lab 15-04 Conversión de datos XML *
 Lab 15-06 Conversión de datos CVS *
 Lab 15-09 API de SOAP *
-
 
 SEMANA 6 —UNIDAD 16 DICOM & MIRTH CONNECT
 Lab 16-14 DICOM SCP 
@@ -132,7 +129,3 @@ CURSO CON LABORATORIOS Y EXAMENES
 SE OTORGAN CERTIFICADOS A LOS QUE HAYAN COMPLETADO LOS PRÁCTICOS Y APROBADO EL EXAMEN FINAL
 
 Consulte valores y más información en  Informes e inscripción: info@hl7.org.ar  hmandirola@hl7.org.ar
-
-
-
-
