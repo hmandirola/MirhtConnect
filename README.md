@@ -6,7 +6,7 @@ Mirth Connect es un #middlewere de #NextGen Connect es un motor de interfaz mult
 
 HL7 Argentina tiene 2 cursos virtuales de Mirth  uno Fundamental y otro Avanzado.
 
-MIRTH FUNDAMENTAL
+MIRTH FUNDAMENTOS
 -----------------
 CURSO VIRTUAL MIRTH CONNECT FUNDAMENTAL DE HL7 ARGENTINA EN ESPAÑOL, LA MEJOR MANEJAR DE APRENDER INTEROPERABILIDAD DE SISTEMAS DE SALUD
 DICTADO POR HL7 ARGENTINA EN ESPAÑOL
