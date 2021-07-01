@@ -73,9 +73,9 @@ Consulte valores y más información en  Informes e inscripción: info@hl7.org.a
 
 ..............................................
 
-MIRTH INTERMEDIO
-----------------
-CURSO VIRTUAL MIRTH CONNECT DE HL7 ARGENTINA INTERMEDIO EN ESPAÑOL, LA MEJOR MANEJAR DE APRENDER INTEROPERABILIDAD DE SISTEMAS DE SALUD
+MIRTH PRO
+---------
+CURSO VIRTUAL MIRTH CONNECT DE HL7 ARGENTINA PRO EN ESPAÑOL, LA MEJOR MANEJAR DE APRENDER INTEROPERABILIDAD DE SISTEMAS DE SALUD
 DICTADO POR HL7 ARGENTINA EN ESPAÑOL
 Introducción a los motores de interoperabilidad con estándares HL7, CDA, DICOM y FHIR orientados al intercambio de información entre sistemas de salud. 
 La mejor manera de conocer la interoperabilidad en el sector salud es usar herramientas que te permitan ver en forma práctica cómo funcionan los estándares más usados con HL7, CDA, FHIR y DICOM en forma práctica.
